@@ -25,9 +25,9 @@ Ref No: 212221230098.
 ```
 using System;
 
-namespace exp1
+namespace program11
 {
-    class Eligibility
+    class program
     {
         static void Main(string[] args)
         {
