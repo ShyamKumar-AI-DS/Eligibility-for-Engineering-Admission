@@ -66,7 +66,7 @@ namespace exp1
 ```
 ## Output:
 
-<img width="929" alt="ex1 eligibility" src="https://github.com/JayanthYadav123/Eligibility-for-Engineering-Admission/assets/94836154/c39b409f-c022-40d6-8e50-fc4bcddcd5ca">
+![image](https://github.com/ShyamKumar-AI-DS/Eligibility-for-Engineering-Admission/assets/93427182/d10ab74a-1226-4763-bc5c-5a350f5cf9fa)
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed.
